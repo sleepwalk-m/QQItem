@@ -27,6 +27,6 @@ QQItem --> 根项目，导入一些公共包
 
 ### 部分截图
 
-![](README.assets/%E6%9C%8D%E5%8A%A1%E7%AB%AF.png)
+![](image/客户端1.png)
 
-![](README.assets/%E5%AE%A2%E6%88%B7%E7%AB%AF1.png)
+![](image/服务端.png)
